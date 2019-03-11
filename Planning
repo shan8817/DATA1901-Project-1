@@ -1,1 +1,66 @@
+Planning
+http://www.maths.usyd.edu.au/u/UG/JM/DATA1001/r/current/projects/Project1_DATA1901.html
+When you change something with some stuff, it might be best to put it as a comment so that we can have two people suggesting it. 
+Contact Details
+
+Callum Predavec
+callumpredavec@gmail.com
+0427701313
+Shupeng Han
+h.linux717@gmail.com
+0466343063
+Poorvesh Muthuraman
+m.poorvesh@gmail.com
+0466809539
+Working Together
+Share R document by Google Drive?
+Use git?
+How do you use Git?
+Timeline
+Week 2
+Find datasets - not ones from R
+Add urls and examples to document
+Week 2-3 Weekend
+Assess datasets and select dataset
+Maybe a conference call? 
+Play around with graduate admission data
+Come up with research questions
+Find more info for IDA
+Learn about git
+Maybe read RGuide?
+Week 3
+Share research questions by tutorial 
+Numerical summary
+Presentation creation
+Including Timing
+Report Writing
+Week 4
+Graphical summary
+Practice presentation
+Report Review
+
+Week 4 End
+PROJECT TURNIN
+All materials that we need for the presentation must be turned in at this point
+Week 5
+Immediate presentation
+
+Selected Datasets
+https://www.kaggle.com/mohansacharya/graduate-admissions Graduate Admission data
+
+Research Questions
+Callum
+Does research correlate with a higher admission chance?
+This is a bit simple without being able to generate case-control data
+I can’t figure out how to use R to generate that data - the libraries are too complex
+Do the test scores positively correlate with each other?
+Do the writing scores positively correlate with each other?
+Do the test scores and the writing scores positively correlate?
+Is there any difference between identical test scores’ chance of admission depending on research? (similar test scores maybe? Like in the same range)
+How does university rating affect the scores?
+Does SOP affect chance of admit more than GRE scores? (“is one more important than the other” question. Not sure if we can do it but seems fun to do)
+
+Should test for statistical significance
+
+SP: my suggestion is that we choose RQs of different difficulty/complexity level. Like from the easiest to the most complicated. 
 
